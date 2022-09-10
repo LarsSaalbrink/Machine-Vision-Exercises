@@ -1,0 +1,10 @@
+^C:\USERS\KAASV\DESKTOP\OPGAVER\MACHINE VISION\MACHINE VISION EXERCISES\EXERCISES_1\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/kaasv/Desktop/Opgaver/Machine Vision/Machine Vision Exercises/Exercises_1" "-BC:/Users/kaasv/Desktop/Opgaver/Machine Vision/Machine Vision Exercises/Exercises_1/build" --check-stamp-file "C:/Users/kaasv/Desktop/Opgaver/Machine Vision/Machine Vision Exercises/Exercises_1/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

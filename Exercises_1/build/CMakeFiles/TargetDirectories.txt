@@ -1,0 +1,3 @@
+C:/Users/kaasv/Desktop/Opgaver/Machine Vision/Machine Vision Exercises/Exercises_1/build/CMakeFiles/Segment.dir
+C:/Users/kaasv/Desktop/Opgaver/Machine Vision/Machine Vision Exercises/Exercises_1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/kaasv/Desktop/Opgaver/Machine Vision/Machine Vision Exercises/Exercises_1/build/CMakeFiles/ZERO_CHECK.dir
